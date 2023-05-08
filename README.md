@@ -4,6 +4,8 @@
 
 ### Hi there 👋
 
+<a href="https://app.daily.dev/oluwadhammieh"><img src="https://api.daily.dev/devcards/6866a55ae9df4925b8fa4b2079b906ec.png?r=n7b" width="400" alt="OYEGBILE PRAISE's Dev Card"/></a>
+
 <!--
 **oyegbilepraise/oyegbilepraise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
